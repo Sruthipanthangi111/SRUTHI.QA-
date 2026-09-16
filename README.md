@@ -38,6 +38,4 @@ Examples:
 1. A QA tester can create a branch for automation test changes.
 2. A QA tester can pull the latest code before testing a new build.
 
-## Next Step
-
-Continue learning Git/GitHub and start applying Git concepts to practical QA projects.    
+    
